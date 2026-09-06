@@ -6,6 +6,7 @@ Official Windows builds of [Filora](https://filora-two.vercel.app).
 
 | Version | File | Release date |
 |---------|------|--------------|
+| 1.0.2 | [filora_1.0.2.7z](https://github.com/SahinoorHUB/Filora_windows_version/releases/download/v1.0.2/filora_1.0.2.7z) | 2026-09-06 |
 | 1.0.1 | [filora_1.0.1.7z](https://github.com/SahinoorHUB/Filora_windows_version/releases/download/v1.0.1/filora_1.0.1.7z) | 2026-08-27 |
 
 ## Install
@@ -15,6 +16,10 @@ Official Windows builds of [Filora](https://filora-two.vercel.app).
 3. Run `Filora.exe`.
 
 **Requirements:** Windows 10 or 11 (64-bit).
+
+## Release notes (v1.0.2)
+
+Share files from PC to phone, receive files from phone via QR scan.
 
 ## Release notes (v1.0.1)
 

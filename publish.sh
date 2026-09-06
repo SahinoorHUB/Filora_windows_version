@@ -3,7 +3,7 @@
 set -euo pipefail
 
 REPO="SahinoorHUB/Filora_windows_version"
-VERSION="${1:-1.0.1}"
+VERSION="${1:-1.0.2}"
 TAG="v${VERSION}"
 ARCHIVE="filora_${VERSION}.7z"
 NOTES="${2:-Share files from PC to phone, receive files from phone via QR scan.}"
